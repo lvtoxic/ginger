@@ -14,16 +14,21 @@
   </component>
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/apps" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/venv" />
     </content>
-    <orderEntry type="jdk" jdkName="Python 3.6 (DjangoStart)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 3.6.1 (C:\Users\Administrator\AppData\Local\Programs\Python\Python36\python3.exe)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="JKT" />
+    <orderEntry type="module" module-name="Py3BBD" />
+    <orderEntry type="module" module-name="pn" />
+    <orderEntry type="module" module-name="Py3" />
   </component>
   <component name="TemplatesService">
     <option name="TEMPLATE_CONFIGURATION" value="Django" />
     <option name="TEMPLATE_FOLDERS">
       <list>
-        <option value="$MODULE_DIR$/../line\templates" />
+        <option value="D:/line\templates" />
       </list>
     </option>
   </component>

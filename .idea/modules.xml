@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../JKT/.idea/JKT.iml" filepath="$PROJECT_DIR$/../JKT/.idea/JKT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Py3/.idea/Py3.iml" filepath="$PROJECT_DIR$/../Py3/.idea/Py3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Py3BBD/.idea/Py3BBD.iml" filepath="$PROJECT_DIR$/../Py3BBD/.idea/Py3BBD.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/line.iml" filepath="$PROJECT_DIR$/.idea/line.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pn/.idea/pn.iml" filepath="$PROJECT_DIR$/../pn/.idea/pn.iml" />
     </modules>
   </component>
 </project>
