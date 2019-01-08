@@ -1,8 +1,21 @@
 # coding=utf-8
 
 import xadmin
-
+from xadmin import views
 from .models import *
+
+class BaseSetting(object):
+    '''主题'''
+    enable_themes=True
+    use_bootswatch=True
+
+class GlobalSetting(object):
+    #页头title
+    site_title='SS后台管理系统'
+    #页脚公司
+    site_footer='SS公司'
+    #左侧菜单栏收起
+    menu_style='accordion'
 
 
 class EmailVerifyRecordAdmin(object):
@@ -25,4 +38,5 @@ class BannerAdmin(object):
 
 xadmin.site.register(EmailVerifyRecord, EmailVerifyRecordAdmin)
 xadmin.site.register(Banner, BannerAdmin)
-
+xadmin.site.register(views.BaseAdminView,BaseSetting)
+xadmin.site.register(views.CommAdminView,GlobalSetting)
