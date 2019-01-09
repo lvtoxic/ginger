@@ -2,33 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="022319d8-cfb7-44f3-bcb4-1f873e8ec4c4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/apps/courses/adminx.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/operation/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/operation/adminx.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/organization/adminx.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../JKT/.idea/JKT.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../JKT/.idea/JKT.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../JKT/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JKT/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Py3/.idea/Py3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Py3/.idea/Py3.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Py3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Py3/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/courses/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/courses/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/courses/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/courses/apps.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/courses/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/courses/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/organization/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/organization/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/organization/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/organization/apps.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/poeration/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/operation/migrations/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/poeration/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/operation/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/poeration/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/operation/apps.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/poeration/migrations/0001_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/operation/migrations/0001_initial.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/poeration/migrations/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/poeration/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/operation/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/poeration/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/operation/tests.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/poeration/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/operation/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/users/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/users/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/users/adminx.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/users/adminx.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/users/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/users/apps.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/users/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/users/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/users/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/users/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/line/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/line/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/line/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/line/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../pn/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pn/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../pn/.idea/pn.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../pn/.idea/pn.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../pn/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pn/.idea/vcs.xml" afterDir="false" />
@@ -44,12 +25,14 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/line$models.coverage" NAME="models Coverage Results" MODIFIED="1546585699080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/users" />
     <SUITE FILE_PATH="coverage/line$admin.coverage" NAME="admin Coverage Results" MODIFIED="1546585833924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/users" />
+    <SUITE FILE_PATH="coverage/line$Test__.coverage" NAME="Test:  Coverage Results" MODIFIED="1547019704960" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/line$ssdb.coverage" NAME="ssdb Coverage Results" MODIFIED="1546826143920" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Py3BBD/BBD/Scrapy" />
     <SUITE FILE_PATH="coverage/line$apps.coverage" NAME="apps Coverage Results" MODIFIED="1546585735661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/users" />
-    <SUITE FILE_PATH="coverage/line$urls.coverage" NAME="urls Coverage Results" MODIFIED="1546585760623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/line" />
+    <SUITE FILE_PATH="coverage/line$views__1_.coverage" NAME="views (1) Coverage Results" MODIFIED="1547019843326" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/apps/users" />
+    <SUITE FILE_PATH="coverage/line$urls.coverage" NAME="urls Coverage Results" MODIFIED="1547020933445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/line" />
     <SUITE FILE_PATH="coverage/line$manage.coverage" NAME="manage Coverage Results" MODIFIED="1546585777047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/line$settings.coverage" NAME="settings Coverage Results" MODIFIED="1546596450852" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/line" />
-    <SUITE FILE_PATH="coverage/line$KeyNull.coverage" NAME="KeyNull Coverage Results" MODIFIED="1546918377408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Py3BBD/BBD/Scrapy" />
+    <SUITE FILE_PATH="coverage/line$KeyNull.coverage" NAME="KeyNull Coverage Results" MODIFIED="1547000959453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Py3BBD/BBD/Scrapy" />
     <SUITE FILE_PATH="coverage/line$views.coverage" NAME="views Coverage Results" MODIFIED="1546585796027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/users" />
   </component>
   <component name="DatabaseView">
@@ -73,7 +56,63 @@
     <favorites_list name="line" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/line/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+              <folding>
+                <element signature="e#628#660#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/apps/users/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="12" lean-forward="true" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/line/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2091">
+              <caret line="124" column="14" selection-start-line="124" selection-start-column="14" selection-end-line="124" selection-end-column="14" />
+              <folding>
+                <element signature="e#305#314#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/templates/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="86" column="18" lean-forward="true" selection-start-line="86" selection-start-column="18" selection-end-line="86" selection-end-column="18" />
+              <folding>
+                <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#0;n#header#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#1;n#div#0;n#div#0;n#div#0;n#header#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/login.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="40" column="34" selection-start-line="40" selection-start-column="34" selection-end-line="40" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -90,7 +129,22 @@
       <find>Users</find>
       <find>管理</find>
       <find>认证和授权</find>
+      <find>/media/image/2016/12</find>
+      <find>staticimages</find>
+      <find>/static/static/images</find>
+      <find>static/images//</find>
+      <find>登录</find>
+      <find>bobby</find>
+      <find>../</find>
+      <find>login</find>
     </findStrings>
+    <replaceStrings>
+      <replace>static/images</replace>
+      <replace>static/images/</replace>
+      <replace>images</replace>
+      <replace>static</replace>
+      <replace>static/</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -110,10 +164,6 @@
         <option value="$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/xadmin/views/base.py" />
         <option value="$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/xadmin/views/list.py" />
         <option value="$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/xadmin/views/dashboard.py" />
-        <option value="$PROJECT_DIR$/line/urls.py" />
-        <option value="$PROJECT_DIR$/line/settings.py" />
-        <option value="$PROJECT_DIR$/../Py3BBD/BBD/Scrapy/config/name.ini" />
-        <option value="$PROJECT_DIR$/../Py3BBD/BBD/Scrapy/KeyNull.py" />
         <option value="$PROJECT_DIR$/apps/courses/models.py" />
         <option value="$PROJECT_DIR$/apps/users/models.py" />
         <option value="$PROJECT_DIR$/apps/courses/adminx.py" />
@@ -130,11 +180,19 @@
         <option value="$PROJECT_DIR$/apps/courses/apps.py" />
         <option value="$PROJECT_DIR$/apps/courses/__init__.py" />
         <option value="$PROJECT_DIR$/apps/organization/apps.py" />
+        <option value="$PROJECT_DIR$/../Py3BBD/BBD/Scrapy/config/name.ini" />
+        <option value="$PROJECT_DIR$/../Py3BBD/BBD/Scrapy/KeyNull.py" />
+        <option value="$PROJECT_DIR$/line/settings.py" />
+        <option value="$PROJECT_DIR$/templates/login.html" />
+        <option value="$PROJECT_DIR$/apps/users/views.py" />
+        <option value="$PROJECT_DIR$/line/urls.py" />
+        <option value="$PROJECT_DIR$/templates/index.html" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="298" />
+    <option name="y" value="132" />
     <option name="width" value="1918" />
     <option name="height" value="1066" />
   </component>
@@ -144,7 +202,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -152,10 +209,26 @@
               <item name="line" type="b2602c69:ProjectViewProjectNode" />
               <item name="line" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="line" type="b2602c69:ProjectViewProjectNode" />
+              <item name="line" type="462c0819:PsiDirectoryNode" />
+              <item name="apps" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="line" type="b2602c69:ProjectViewProjectNode" />
+              <item name="line" type="462c0819:PsiDirectoryNode" />
+              <item name="line" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="line" type="b2602c69:ProjectViewProjectNode" />
+              <item name="line" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -181,7 +254,27 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.KeyNull">
+  <component name="RunManager" selected="Python.urls">
+    <configuration name="Test: " type="DjangoTestsConfigurationType" temporary="true">
+      <module name="line" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="KeyNull" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Py3BBD" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -204,29 +297,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="admin" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="line" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/users" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/users/admin.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="settings" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="urls" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="line" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -239,7 +310,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/line/settings.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/line/urls.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -248,20 +319,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ssdb" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Py3BBD" />
+    <configuration name="views (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="line" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Py3BBD/BBD/Scrapy" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/apps/users" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Py3BBD/BBD/Scrapy/ssdb.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/apps/users/views.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -294,11 +365,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.KeyNull" />
-        <item itemvalue="Python.ssdb" />
-        <item itemvalue="Python.settings" />
-        <item itemvalue="Python.admin" />
+        <item itemvalue="Python.urls" />
         <item itemvalue="Python.views" />
+        <item itemvalue="Python.views (1)" />
+        <item itemvalue="Django tests.Test: " />
+        <item itemvalue="Python.KeyNull" />
       </list>
     </recent_temporary>
   </component>
@@ -318,11 +389,14 @@
       <workItem from="1546824179587" duration="19400000" />
       <workItem from="1546910239144" duration="5284000" />
       <workItem from="1546927780621" duration="7881000" />
+      <workItem from="1546942373694" duration="19000" />
+      <workItem from="1546996801040" duration="15782000" />
+      <workItem from="1547023734729" duration="569000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43029000" />
+    <option name="totallyTimeSpent" value="59399000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -335,8 +409,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4991453" visible="true" weight="0.14232409" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4991453" visible="true" weight="0.14712153" />
       <window_info id="Favorites" order="1" sideWeight="0.50085473" side_tool="true" weight="0.18656716" />
       <window_info id="Structure" order="2" sideWeight="0.4991453" weight="0.18656716" />
       <window_info active="true" anchor="bottom" id="Concurrent Activities Diagram" order="0" weight="0.3290461" />
@@ -352,7 +427,7 @@
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.3290461" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="13" visible="true" weight="0.32583067" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="13" visible="true" weight="0.42979637" />
       <window_info anchor="bottom" id="Python Console" order="14" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -390,43 +465,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../Py3/P3DataDispose/DictSrot.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Py3/P3DataDispose/PublicKey.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Py3/P3DataDispose/Frequency.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/manage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/apps/users/migrations/0001_initial.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="17" column="31" lean-forward="true" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/django/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/runpy.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="84" selection-start-line="84" selection-end-line="84" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/apps/organization/migrations/0001_initial.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -489,30 +527,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/line/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-          <folding>
-            <element signature="e#628#660#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Py3BBD/BBD/Scrapy/KeyNull.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="748">
-          <caret line="61" column="20" lean-forward="true" selection-start-line="61" selection-start-column="20" selection-end-line="61" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Py3BBD/BBD/Scrapy/config/name.ini">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
-          <caret line="65" column="30" selection-start-line="65" selection-start-column="30" selection-end-line="65" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/extra_apps/xadmin/models.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -532,25 +546,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/apps/users/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/apps/users/tests.py">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/line/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-          <folding>
-            <element signature="e#305#314#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/extra_apps/xadmin/apps.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -701,6 +698,94 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="23" lean-forward="true" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Py3BBD/BBD/Scrapy/KeyNull.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="41" column="17" lean-forward="true" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Py3BBD/BBD/Scrapy/config/name.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="487">
+          <caret line="99" column="22" selection-start-line="99" selection-end-line="99" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/django/core/handlers/exception.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/django/urls/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="74" selection-start-line="74" selection-end-line="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/base.html" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/django/conf/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/django/views/generic/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="49" column="8" selection-start-line="49" selection-start-column="8" selection-end-line="49" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/line/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2091">
+          <caret line="124" column="14" selection-start-line="124" selection-start-column="14" selection-end-line="124" selection-end-column="14" />
+          <folding>
+            <element signature="e#305#314#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/line/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+          <folding>
+            <element signature="e#628#660#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/users/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="12" lean-forward="true" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="40" column="34" selection-start-line="40" selection-start-column="34" selection-end-line="40" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="86" column="18" lean-forward="true" selection-start-line="86" selection-start-column="18" selection-end-line="86" selection-end-column="18" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#0;n#header#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#1;n#div#0;n#div#0;n#div#0;n#header#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
