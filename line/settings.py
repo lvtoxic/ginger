@@ -31,6 +31,10 @@ ALLOWED_HOSTS = []
 
 # Application definition
 
+AUTHENTICATION_BACKENDS=(
+    'users.views.CustomBackend',
+)
+
 INSTALLED_APPS = [
     'django.contrib.admin',
     'django.contrib.auth',
@@ -44,6 +48,7 @@ INSTALLED_APPS = [
     'operation',
     'xadmin',
     'crispy_forms',
+    'captcha',
 ]
 
 AUTH_USER_MODEL = 'users.UserProfile'
